@@ -1,0 +1,4 @@
+program_urls = [
+    'https://abit.itmo.ru/program/master/ai',
+    'https://abit.itmo.ru/program/master/ai_product'
+]
